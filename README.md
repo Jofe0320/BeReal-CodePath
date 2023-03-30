@@ -1,11 +1,11 @@
 # BeReal-CodePath
-# Project 5 - *Name of App Here*
+# Project 5 - BeReal
 
-Submitted by: **Your Name Here**
+Submitted by: Jose Fernando Ortiz Baez
 
-**Name of your app** is an app that ... [TODO] 
+BeReal is an app that emulates the social media app of be real. It lets the user create a profile and post photos of what hes doing in his every day
 
-Time spent: **X** hours spent in total
+Time spent: 10 hours spent in total
 
 ## Required Features
 
