@@ -33,6 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+I submitted it on codePath because it is too heavy
 <img src='https://submissions.us-east-1.linodeobjects.com/ios102/f0aPTvys.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
